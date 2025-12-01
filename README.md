@@ -24,4 +24,38 @@ Además, manejo software como QGis, ArcGis, la siempre confiable paquetería de 
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514598/6016/meow_coffee.png?1643514598" width="30"/> Lenguajes de programación y software 
 
+ANALISIS DE DATOS Y DATOS GEOESPACIALES
+
+-  Leaflet
+-  QGis
+-  ArcMap
+-  Mapa Digital de México
+-  R
+-  GeoDa
+
+CÓDIGO / IDE / SCV
+
+-  Google Apps Script
+-  Rstudio 
+-  HTML5
+-  CSS
+-  JS
+-  Visual Code
+-  GitHub
+-  Git
+
+BUSINESS INTELLIGENCE Y PAQUETERIAS
+
+-  Looker Studio
+-  Power BI
+-  Office 365 (Word, Power Point, Excel, etc)
+-  Google (Docs, Google Sheets, Slides, Forms, MyMaps, etc)
+
+OTROS PROGRAMAS Y HABILIDAES
+
+-  Photoshop
+-  Illustrator
+-  Desarrollo de API’s y Formularios con Google Apps Script
+-  Creación de paqueterías con Rstudio 
+
 
